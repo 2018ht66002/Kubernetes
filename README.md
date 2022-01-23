@@ -1,2 +1,1 @@
-# Kubernetes
-Files for CKA
+# files for my CKA online course
